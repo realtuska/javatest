@@ -1,0 +1,9 @@
+article {
+    display:block;
+    border:1px solid black;
+    padding:50px;
+    margin:15vh auto;
+    text-align:center;
+    width:50vw;
+    box-sizing:border-box;
+}
